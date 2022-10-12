@@ -1,0 +1,14 @@
+div {
+        background-color:rgb(192, 121, 195);
+        box-sizing: content-box;
+        width: 100%;
+        float: right;
+        align-content: center;
+        align-items: center;
+    }
+
+    form {
+        background-color:rgb(164, 222, 228);
+        margin:0 auto;
+        width: 700px;
+    }
